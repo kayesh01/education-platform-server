@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "name": "Python",
+        "img": "https://media.istockphoto.com/photos/3d-render-of-python-tutorial-programming-tutorial-coding-concept-picture-id1198218621?s=612x612",
+        "details": "Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses. Python relies on indentation, using whitespace, to define scope; such as the scope of loops, functions and classes. Other programming languages often use curly-brackets for this purpose.",
+        "amount": "20",
+        "title": "Python uses new lines to complete a command, as opposed to other programming languages which often use semicolons or parentheses."
+    },
+    {
+        "id": "2",
+        "name": "JavaScript",
+        "img": "https://media.istockphoto.com/photos/javascript-code-computer-language-programming-internet-text-editor-picture-id1156837650?k=20&m=1156837650&s=612x612&w=0&h=YK8L1eAhXtYZOtnJBWdH5H4mVslt0U7HP7K4ODr6Jms=",
+        "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries.",
+        "amount": "25",
+        "title": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS."
+    },
+    {
+        "id": "3",
+        "name": "C++",
+        "img": "https://media.istockphoto.com/photos/word-cloud-tag-cloud-graphics-picture-id525470828?s=612x612",
+        "details": "C++ is an object-oriented programming language and includes concepts like classes, inheritance, polymorphism, data abstraction, and encapsulation which allow code reusability and makes programs very maintainable. C++ use multi-paradigm programming. The Paradigm means the style of programming .",
+        "amount": "22",
+        "title": "C++ use multi-paradigm programming. The Paradigm means the style of programming ."
+    },
+    {
+        "id": "4",
+        "name": "C",
+        "img": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNvZGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "details": "As a middle-level language, C combines the features of both high-level and low-level languages. It can be used for low-level programming, such as scripting for drivers and kernels and it also supports functions of high-level programming languages, such as scripting for software applications etc.",
+        "amount": "30",
+        "title": "As a middle-level language, C combines the features of both high-level and low-level languages."
+    },
+    {
+        "id": "5",
+        "name": "React",
+        "img": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cmVhY3R8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "details": "The React. js framework is an open-source JavaScript framework and library developed by Facebook. It's used for building interactive user interfaces and web applications quickly and efficiently with significantly less code than you would with vanilla JavaScript.",
+        "amount": "28",
+        "title": "The React. js framework is an open-source JavaScript framework and library developed by Facebook."
+    },
+    {
+        "id": "6",
+        "name": "Node JS",
+        "img": "https://media.istockphoto.com/photos/nodejs-inscription-against-laptop-and-code-background-picture-id1347542592?b=1&k=20&m=1347542592&s=170667a&w=0&h=L7Vdq9Ae4cAlL-xZ_EqZog1wixnNUGOJHmEjhW868Xg=",
+        "details": "Node. js is a single-threaded, open-source, cross-platform runtime environment for building fast and scalable server-side and networking applications. It runs on the V8 JavaScript runtime engine, and it uses event-driven, non-blocking I/O architecture, which makes it efficient and suitable for real-time applications.",
+        "amount": "27",
+        "title": "Node. js is a single-threaded, open-source, cross-platform runtime environment for building fast and scalable server-side and networking applications."
+    }
+]
